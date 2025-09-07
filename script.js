@@ -1,4 +1,7 @@
+// this is javaScript code for simon says game
+
 let gameSeq = [];
+
 let userSeq = [];
 
 let btns =["yellow", "red", "purple", "green"];
